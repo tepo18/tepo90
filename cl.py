@@ -16,14 +16,21 @@ TEXT_PATH = "normal.txt"
 FIN_PATH = "final.txt"
 
 LINK_PATH = [
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/ss.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/vless.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo10.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo20.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo30.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo40.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo50.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/trojan.txt"
+    
+    "https://almasi-1990.almasi-ali98.workers.dev/522e8484-53de-41a1-a5ba-92e2ec3b7b26/ty",
+    "https://shah-2879.almasi-ali98.workers.dev/sab/sub",
+    "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
+    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin",
+    "https://zaya.link/Arista_HP_Final#xsfilternet",
+    "https://zaya.link/V2GO_everyday",
+    "https://link-liver.hp71.workers.dev/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt",
+    "https://raw.githubusercontent.com/sinavm/SVM/refs/heads/main/subscriptions/xray/normal/mix",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vmess.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ss.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/trojan.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vless.txt",
+    "https://doh-worker.almasi-ali98.workers.dev/9c896b74-c3da-4ceb-89cc-052bf59c863e?sub",
+    "https://bnb-20.ahsan-tepo1383online.workers.dev/sub/normal/%40eIeesh.fkQJ0O-Y#%F0%9F%92%A6%20BPB%20Normal"
 ]
 
 FILE_HEADER_TEXT = "//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE="
