@@ -1102,7 +1102,6 @@ hy2://5046SHWqk6@91.132.51.160:844/#%3E%3E%40oneclickvpnkeys%3A%3ATR
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#@Trick_mobil
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#🥾65@oneclickvpnkeys
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#@Trick_mobil
-hy2://1y4HweESOT@sss.ikun6.dpdns.org:27995/?insecure=1&sni=azure.microsoft.com#@Trick_mobil
 hy2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.143.152:443/?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#@Trick_mobil
 hy2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.143.152:443/?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#🥾59@oneclickvpnkeys
 hy2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.208.122:443/?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#🥾61@oneclickvpnkeys
@@ -1119,6 +1118,7 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermansh
 hy2://dMqSvWDoY0h8wJA4H7ZWJDFLDLF52065@43.153.7.213:8443/?insecure=1&sni=bing.com#🥾66@oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
+hy2://zhangyang@130.61.50.75:6443/#🐲1@oneclickvpnkeys
 vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇦🇲%20Armenia%20-%201
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&sni=images-na.ssl-images-amazon.com&allowInsecure=1&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&packetEncoding=xudp&encryption=none#🇦🇺%20Australia%20-%201
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&sni=images-na.ssl-images-amazon.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&packetEncoding=xudp&encryption=none#🇦🇺%20Australia%20-%202
@@ -1664,6 +1664,7 @@ hy2://zhangyang@130.61.50.75:6443/#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Server 54
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%F0%9F%A5%BE65%40oneclickvpnkeysanytls://dongtaiwang.com@tw.399403.xyz:8443/?insecure=1&fp=chrome#%F0%9F%A5%BE62%40oneclickvpnkeysanytls://dongtaiwang.com@45.221.98.14:59901/?insecure=1&fp=chrome#%F0%9F%A5%BE64%40oneclickvpnkeys
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒
+hy2://1y4HweESOT@sss.ikun6.dpdns.org:27995/?insecure=1&sni=azure.microsoft.com#@Trick_mobil
 hy2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.143.152:443/?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#%F0%9F%A5%BE59%40oneclickvpnkeys
 hy2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.208.122:443/?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#%F0%9F%A5%BE61%40oneclickvpnkeys
 hy2://5046SHWqk6@91.132.51.160:844/
