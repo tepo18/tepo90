@@ -1679,5 +1679,4 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermansh
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=🔒
 hy2://dMqSvWDoY0h8wJA4H7ZWJDFLDLF52065@43.153.7.213:8443/?insecure=1&sni=bing.com#%F0%9F%A5%BE66%40oneclickvpnkeys
 hy2://zhangyang@130.61.50.75:6443/
-hy2://zhangyang@130.61.50.75:6443/#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hy2://zhangyang@130.61.50.75:6443/#%F0%9F%90%B21%40oneclickvpnkeys
