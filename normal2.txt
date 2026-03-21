@@ -1658,6 +1658,7 @@ hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shife
 hy2://1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc@130.162.146.2:23001/?insecure=1&sni=kr3.xn--mesx36n.com#k%40oneclickvpnkeys
 hy2://1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc@138.2.61.63:23001/?insecure=1&sni=jp1.xn--mesx36n.com#j%40oneclickvpnkeys
 hy2://5046SHWqk6@91.132.51.160:844/
+hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#%F0%9D%99%83%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%9C%20%F0%9D%99%86%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%9C🇭🇰
 hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#h%40oneclickvpnkeys
 hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#e%40oneclickvpnkeys
 hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=🔒
@@ -1671,5 +1672,4 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermansh
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=🔒
 hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#f%40oneclickvpnkeys
 hy2://zhangyang@130.61.50.75:6443/
-hy2://zhangyang@130.61.50.75:6443/#%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE🇩🇪
 hy2://zhangyang@130.61.50.75:6443/#a%40oneclickvpnkeys
