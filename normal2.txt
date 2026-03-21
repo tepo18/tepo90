@@ -1096,8 +1096,21 @@ vless://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?type=tcp&encrypt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#🇳🇱NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#🇳🇱NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱NL
+hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#%3E%3E%40oneclickvpnkeys%3A%3AXX
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hy2://zhangyang@130.61.50.75:6443/#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#g@oneclickvpnkeys
+hy2://1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc@130.162.146.2:23001/?insecure=1&sni=kr3.xn--mesx36n.com#k@oneclickvpnkeys
+hy2://1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc@138.2.61.63:23001/?insecure=1&sni=jp1.xn--mesx36n.com#j@oneclickvpnkeys
+hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#h@oneclickvpnkeys
+hy2://Telegram-->@Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#e@oneclickvpnkeys
+hy2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#b@oneclickvpnkeys
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#d@oneclickvpnkeys
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#c@oneclickvpnkeys
+hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#f@oneclickvpnkeys
+hy2://zhangyang@130.61.50.75:6443/#a@oneclickvpnkeys
 vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇦🇲%20Armenia%20-%201
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&sni=images-na.ssl-images-amazon.com&allowInsecure=1&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&packetEncoding=xudp&encryption=none#🇦🇺%20Australia%20-%201
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&sni=images-na.ssl-images-amazon.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&packetEncoding=xudp&encryption=none#🇦🇺%20Australia%20-%202
