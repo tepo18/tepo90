@@ -1104,11 +1104,6 @@ hy2://2545ab46-6306-4f2b-badd-5531f384d55f@212.192.13.242:4433/?insecure=1&sni=h
 hy2://2545ab46-6306-4f2b-badd-5531f384d55f@68.233.103.254:4433/?insecure=1&sni=ln4.xiaoliyu.cyou#👀6@oneclickvpnkeys
 hy2://4d092122-268a-4a1a-b23f-83931c5abc3a@166.88.142.205:2056/?insecure=1&sni=mg6.mangshe.xyz#👀4@oneclickvpnkeys
 hy2://4d092122-268a-4a1a-b23f-83931c5abc3a@193.123.78.85:2056/?insecure=1&sni=db1.mangshe.xyz#👀7@oneclickvpnkeys
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.112.192:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.25.232:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.60.252:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.174.18:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.77.240.3:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
 vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇦🇲%20Armenia%20-%201
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&sni=images-na.ssl-images-amazon.com&allowInsecure=1&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&packetEncoding=xudp&encryption=none#🇦🇺%20Australia%20-%201
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&sni=images-na.ssl-images-amazon.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&packetEncoding=xudp&encryption=none#🇦🇺%20Australia%20-%202
@@ -1672,9 +1667,9 @@ hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=gava
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.201.123.38:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.201.62.194:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.206.198.184:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.206.218.221:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.206.251.0:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.112.192:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.25.232:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.60.252:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.174.18:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.77.240.3:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
 hy2://zhangyang@130.61.50.75:6443/
