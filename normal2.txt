@@ -1641,4 +1641,3 @@ hy2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&sni=gavazn.
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.233.132.27:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@202.146.222.30:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇭🇰HK_@WangCai_8
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Server 54
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@202.146.222.86:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇭🇰HK_@WangCai_8
