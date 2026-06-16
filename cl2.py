@@ -14,16 +14,14 @@ from typing import List
 # ===================== تنظیمات =====================
 TEXT_PATH = "normal2.txt"
 FIN_PATH = "final2.txt"
-
 LINK_PATH = [
-    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/hysteria2.txt"
-    "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
-    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/main/Sub.mahsa.xsparvin",
-    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/hy2.html",
-    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2",
-    "https://raw.githubusercontent.com/tepo80/Trojan/main/hp.txt",
-    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt"
-
+    "https://nahan-2024-pro.online-tepo98.workers.dev/sync",
+    "https://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt",
+    "https://tepo98.pages.dev/sub/raw/_hZZC1W1TjTOd6pC?app=xray#%F0%9F%92%A6%20BPB%20Raw",
+    "https://trojan1.ahsan-tepo1383online.workers.dev/sub/172.67.172.49",
+    "https://almasi.ahsan-tepo1383online.workers.dev/sub/sub",
+    "https://crimson-truth-32d7.online-tepo98.workers.dev/sub/raw/Zjt5Px86FXXIOXRC?app=xray#%F0%9F%92%A6%20BPB%20Raw",
+    "https://dry-art-88e9.online-tepo98.workers.dev/sub?token=ea4b59d0f9dde5db0d571db112dd6428"
 ]
 
 FILE_HEADER_TEXT = "//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE="
