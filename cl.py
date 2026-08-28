@@ -16,21 +16,16 @@ TEXT_PATH = "normal.txt"
 FIN_PATH = "final.txt"
 
 LINK_PATH = [
-    
-    "https://almasi-1990.almasi-ali98.workers.dev/522e8484-53de-41a1-a5ba-92e2ec3b7b26/ty",
-    "https://shah-2879.almasi-ali98.workers.dev/sab/sub",
-    "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
-    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin",
-    "https://zaya.link/Arista_HP_Final#xsfilternet",
-    "https://zaya.link/V2GO_everyday",
-    "https://link-liver.hp71.workers.dev/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt",
-    "https://raw.githubusercontent.com/sinavm/SVM/refs/heads/main/subscriptions/xray/normal/mix",
-    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vmess.txt",
-    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ss.txt",
-    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/trojan.txt",
-    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vless.txt",
-    "https://doh-worker.almasi-ali98.workers.dev/9c896b74-c3da-4ceb-89cc-052bf59c863e?sub",
-    "https://bnb-20.ahsan-tepo1383online.workers.dev/sub/normal/%40eIeesh.fkQJ0O-Y#%F0%9F%92%A6%20BPB%20Normal"
+    "https://raw.githubusercontent.com/tepo18/sab-vip10/main/shah.txt",
+    "https://billowing-king-badd.shah98-tepo98.workers.dev/sub?token=ad2787e72ea01b52a90cc686afe1896f",
+    "https://almasi.ahsan-tepo1383online.workers.dev/sub/sub",
+    "https://xnzvhfevu8ms.shah98-tepo98.workers.dev/feed/ZEUS-77IELBGK",
+    "https://small-pond-676-e-d-g-e.batool-sogeli.workers.dev/sub?token=54e533fc74493379c95453c419066252",
+    "https://wlzmgdefumms.ahsan-tepo1390.workers.dev/feed/jjjjjjjjjjjjj",
+    "https://avopt-efoxs7qnam.pages.dev/Gp5phgTfSXuWNe/sub/raw?app=xray#%F0%9F%92%A6%20BPB%20Raw",
+    "https://n-h-a-n-98.ahsan-tepo1383online.workers.dev/sync?sub=d5d4cc2f47b3c71bf88e5a2b9cc9de4b&flag=raw",
+    "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt"
+
 ]
 
 FILE_HEADER_TEXT = "//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE="
