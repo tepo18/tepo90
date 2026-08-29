@@ -16,7 +16,6 @@ TEXT_PATH = "normal.txt"
 FIN_PATH = "final.txt"
 
 LINK_PATH = [
-    "https://raw.githubusercontent.com/tepo18/sab-vip10/main/shah.txt",
     "https://billowing-king-badd.shah98-tepo98.workers.dev/sub?token=ad2787e72ea01b52a90cc686afe1896f",
     "https://almasi.ahsan-tepo1383online.workers.dev/sub/sub",
     "https://xnzvhfevu8ms.shah98-tepo98.workers.dev/feed/ZEUS-77IELBGK",
