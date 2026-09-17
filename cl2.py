@@ -15,17 +15,14 @@ from typing import List
 TEXT_PATH = "normal2.txt"
 FIN_PATH = "final2.txt"
 LINK_PATH = [
+"https://old-limit-e122-edge-333.ahsan-tepo1383online.workers.dev/sub?token=8bfaf9cc1c81e4005289b8d8c738077c",
+"https://raw.githubusercontent.com/patterniha/Free-Configs/refs/heads/main/configs_base64.txt",
+"https://xnzvhfevu8ms.shah98-tepo98.workers.dev/feed/ZEUS-77IELBGK",
+"https://wlzmgdefumms.ahsan-tepo1390.workers.dev/feed/ZEUS-TBAITSU1",
+"https://uxzp6qeuunos.shah-tepo98.workers.dev/feed/98PEZY4V",
+"https://uxzp6qeuunos.shah-tepo98.workers.dev/feed/X3R0LMNT",
+"https://uxzp6qeuunos.shah-tepo98.workers.dev/feed/tepo98",
     
-    "https://billowing-king-badd.shah98-tepo98.workers.dev/sub?token=ad2787e72ea01b52a90cc686afe1896f",
-    "https://almasi.ahsan-tepo1383online.workers.dev/sub/sub",
-    "https://xnzvhfevu8ms.shah98-tepo98.workers.dev/feed/ZEUS-77IELBGK",
-    "https://small-pond-676-e-d-g-e.batool-sogeli.workers.dev/sub?token=54e533fc74493379c95453c419066252",
-    "https://wlzmgdefumms.ahsan-tepo1390.workers.dev/feed/jjjjjjjjjjjjj",
-    "https://avopt-efoxs7qnam.pages.dev/Gp5phgTfSXuWNe/sub/raw?app=xray#%F0%9F%92%A6%20BPB%20Raw",
-    "https://n-h-a-n-98.ahsan-tepo1383online.workers.dev/sync?sub=d5d4cc2f47b3c71bf88e5a2b9cc9de4b&flag=raw",
-    "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
-    "https://frosty-robin-2c97.tepo3360.workers.dev/sub?token=69c2fbc1aeb0204a096e60dc14f09370",
-    "https://xnzvhfevu8ms.shah98-tepo98.workers.dev/feed/ZEUS-77IELBGK"
 ]
 
 FILE_HEADER_TEXT = "//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE="
