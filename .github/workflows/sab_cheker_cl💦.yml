@@ -1,15 +1,15 @@
-name: update-cl2
+name: update-cl
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */1 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  cl2-job:
+  cl-job:
     runs-on: ubuntu-latest
     timeout-minutes: 3
 
@@ -22,15 +22,15 @@ jobs:
 
       - run: pip install requests psutil retrying PyYaml || echo "skip install"
 
-      - run: timeout 180s python cl2.py || echo "❌ cl2.py failed or skipped"
+      - run: timeout 180s python cl.py || echo "❌ cl.py failed or skipped"
 
       - run: |
-          if [[ -s final2.txt || -s normal2.txt ]]; then
+          if [[ -s final.txt || -s normal.txt ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add final2.txt normal2.txt
-            git commit -m "auto update from cl2.py [skip ci]" || echo "No changes"
+            git add final.txt normal.txt
+            git commit -m "auto update from cl.py [skip ci]" || echo "No changes"
             git push || echo "skip push"
           else
-            echo "⚠️ final2.txt یا normal2.txt خالی یا موجود نیست، commit نشد"
+            echo "⚠️ final.txt یا normal.txt خالی یا موجود نیست، commit نشد"
           fi
